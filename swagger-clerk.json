@@ -5949,7 +5949,8 @@
             "enum": [
               "oauth_google",
               "oauth_mock",
-              "oauth_custom_mock"
+              "oauth_custom_mock",
+              "from_oauth_google"
             ]
           },
           "external_verification_redirect_url": {
